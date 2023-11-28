@@ -1,0 +1,205 @@
+
+body{
+    background-image: url(https://i.pinimg.com/originals/7d/b6/e7/7db6e71087192ed0aac4ad227518f3e4.jpg);
+    background-color: rgb(14, 74, 159);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    }
+    .container{
+    text-align: center;
+    padding: 10px;
+    position:fixed;
+    height: 650px;
+    width:350px;
+    max-width: 32%;
+    max-height: 94%;
+    top:10px; 
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    margin-left: 37%;
+    box-shadow: 4px 3px 1px 0px #ffffff60;
+    
+   }
+   .ficha{
+    font-size: 22px;
+    text-align: left;
+    padding: 10px;
+    position:fixed;
+    height: 670px;
+    width:350px;
+    max-width: 32%;
+    max-height: 93%;
+    top:10px; 
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    margin-left: 70%;
+    box-shadow: 4px 3px 1px 0px #ffffff60;
+   }
+   #IP{
+    width:90%;
+   }
+   .forms{
+    font-size: 20px;
+    text-align: left;
+    margin: 5px 0px;
+   }
+   #botao{
+    background-color:transparent;
+  border-color: #247d85;
+  color:black;
+  padding: 7px;
+  font-weight:bold;
+  font-size: 12pt;
+  margin-top:10px;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none; 
+  transition: all .5s ease-out;
+   }
+   
+   #contrato{
+    width: 100%;
+    text-align: justify;
+   }
+
+    .tabela{
+    background-size: 300px 600px;
+    background-color:rgba(255, 255, 255, 0.6);
+    color:rgb(0, 0, 0);
+    width: 140px;
+    height:80px;
+    border-radius:15px ;
+    margin: 10px 10px ;
+    text-align: justify;
+    word-spacing: 5px;
+    line-height: 20px;
+    margin-top:150px;
+    position: fixed;
+    }
+    
+   .tabela:hover{
+      width: 17%;
+      height:300px;
+      transition: all .3s ease-in-out;
+      background-color: rgba(255, 255, 255, 0.400);
+
+       .target {
+         font-size: 30px;
+         color:rgb(0, 0, 0);
+         width: 90%;
+         padding: 40px 10px px;
+         margin-top: 60px;
+         margin-left: 10px;
+         transition: all .5s ease-out;
+         
+
+         
+       }
+            
+            #pg1{
+               width:90% ;
+               height: 35px;
+               font-size: 20px;
+               background-color:rgb(54, 178, 56);
+               border-radius:  0px 10px 100px ;
+               transition: all .55s ease-out;
+               margin: 10px 10px;
+               
+
+            }
+            #formulario{
+               width:90% ;
+               height: 35px;
+               font-size: 20px;
+               background-color:rgb(54, 178, 56);
+               border-radius:  0px 10px 100px ;
+               transition: all .65s ease-out;
+               margin: 10px 10px;
+
+            }
+            #pesquisa{
+               margin:10px 10px ;
+               width:90% ;
+               height: 35px;
+               font-size: 20px;
+               background-color:rgb(54, 178, 56);
+               border-radius:  0px 10px 100px ;
+               transition: all .75s ease-out;
+            }
+            
+      
+        }
+        
+
+    
+     #formulario{
+      display: inline-block;
+      border: 0px;
+      outline: none;
+      font-size: 0px;
+      border-radius: 0px;
+      font-size: 0px;
+      margin: 0px -50px;
+
+     }
+     #formulario:hover{
+      width: 80%;
+      
+      
+     }
+     #pesquisa{
+      display: inline-block;
+      border: 0px;
+      outline: none;
+      font-size: 0px;
+      border-radius: 0px;
+      margin: 0px -50px;
+       }
+
+     #pg1{
+      display: inline-block;
+      border: 0px;
+      outline: none;
+      font-size: 0px;
+      border-radius: 0px;
+      margin: 0px -50px;
+       }
+       #menu{
+         text-decoration: underline;
+         font-size: 35px;
+         text-align: center;
+       }
+       h2{
+        font-size: 30px;
+       }
+   
+     h3{
+        font-size: 35px;
+        text-align: center;
+     }
+     label{
+       text-decoration: underline;
+       margin:10px
+        
+       }
+       a{color:black;}
+       a:focus{color:blue;}
+
+     .titulo1{
+        background-color: rgba(255, 255, 255, 0.6);
+        width: 300px;
+        margin: auto;
+        border-radius: 15px;
+        font-size: 35px;
+        text-align: center;
+     }
+     
+     .titulo{
+        text-align: center;
+        color:rgb(0, 0, 0);
+        font-family: 'Times New Roman', Times, serif;
+        margin-top: 160px;
+        font-size: 50px;
+        text-shadow: 4px 2px  rgba(255, 0, 0, 0.645);
+        
+     }
